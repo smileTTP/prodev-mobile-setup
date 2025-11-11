@@ -22,6 +22,19 @@ npm -v
 ```bash
 npm install -g expo-cli
 ```
+4. I initialized a new Expo project 
+```bash
+npx create-expo-app@latest
+```
+5. Started the Expo server 
+```bash
+npm run reset-project
+```
+And scanned the QR code on Expo Go android app
+6. I ran the reset command 
+```bash 
+npm run reset-project
+```
 
 
 
